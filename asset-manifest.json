@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movieworld/static/css/main.134d376c.css",
+    "main.js": "/movieworld/static/js/main.e5421c27.js",
+    "index.html": "/movieworld/index.html",
+    "main.134d376c.css.map": "/movieworld/static/css/main.134d376c.css.map",
+    "main.e5421c27.js.map": "/movieworld/static/js/main.e5421c27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.134d376c.css",
+    "static/js/main.e5421c27.js"
+  ]
+}
